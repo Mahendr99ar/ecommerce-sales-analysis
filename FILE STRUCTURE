@@ -1,0 +1,6 @@
+Superstore-Project/
+│
+├── superstore_analysis.py   ← tera code
+├── SampleSuperstore.csv
+├── superstore_outputs/      ← auto generate hoga
+├── README.md
