@@ -1,6 +1,6 @@
 Ecommerce-sales-analysis/
 │
-├── superstore_analysis.py   ← tera code
+├── superstore_analysis.py  
 ├── SampleSuperstore.csv
-├── superstore_outputs/      ← auto generate hoga
+├── superstore_outputs/     
 ├── README.md
