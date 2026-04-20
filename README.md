@@ -1,4 +1,10 @@
-# Superstore Sales — End-to-End Data Analysis
+## 🚀 Quick Summary
+This project analyzes retail sales data to identify:
+- Loss-making products
+- Impact of discounts on profit
+- Regional performance trends
+
+# ecommerce-sales-analysis — End-to-End Data Analysis
 
 **Predictive Sales Analysis and Profitability Optimisation for a Multi-Region Retailer**
 
@@ -63,7 +69,7 @@ portion of transactions are loss-making. Management lacks visibility into:
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/superstore-analysis.git
+git clone https://github.com/Mahendr99ar/ecommerce-sales-analysis.git
 cd superstore-analysis
 
 # Install dependencies
@@ -91,7 +97,7 @@ and remove or skip the data-generation block (Step 1) in the script.
 ## Project Structure
 
 ```
-superstore-analysis/
+ecommerce-sales-analysis/
 ├── superstore_analysis.py   # Full analysis script
 ├── SampleSuperstore.csv     # Dataset (generated or drop real file here)
 ├── superstore_outputs/      # Auto-generated charts (10 PNGs)
