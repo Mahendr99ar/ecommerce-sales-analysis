@@ -97,7 +97,7 @@ and remove or skip the data-generation block (Step 1) in the script.
 ## Project Structure
 
 ```
-ecommerce-sales-analysis/
+Ecommerce-sales-analysis/
 ├── superstore_analysis.py   # Full analysis script
 ├── SampleSuperstore.csv     # Dataset (generated or drop real file here)
 ├── superstore_outputs/      # Auto-generated charts (10 PNGs)
