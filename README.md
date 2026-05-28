@@ -4,7 +4,7 @@ This project analyzes retail sales data to identify:
 - Impact of discounts on profit
 - Regional performance trends
 
-# ecommerce-sales-analysis — End-to-End Data Analysis
+# Ecommerce-Sales-Analysis — End-to-End Data Analysis
 
 **Predictive Sales Analysis and Profitability Optimisation for a Multi-Region Retailer**
 
